@@ -1,17 +1,3 @@
-/*let main = document.getElementsByClassName(".main-tit");
-let mainTit = document.getElementsByClassName(".tit-2");
-main.innerText(mainTit);
-let prueba = document.getElementsByTagName(div.innerText(".tit-1"))*/
-
-  /*let titulo = document.getElementsByClassName('tit-1');
-  let cambiar = document.getElementsByClassName('tit');
-  cambiar.innerText(titulo);
-  let h2 = document.querySelector('h2')
-  cambiar.innerHTML=titulo;
-  let modificable = document.getElementsByClassName('tit')[0];
-  let titulo = document.getElementsByClassName('tit-1');
-  modificable.innerHTML=titulo;*/
-
 function selectText1(){
   document.querySelector('.tit').innerText=  "Historia";
   document.querySelector('.main-text').innerText="El Clan Gojo es de uno de los tres grandes clanes existentes en la serie Jujutsu Kaisen. Sus miembros son desciendes del hechicero con un espíritu vengativo Sugawara-no-Michizan. Se tiene conocimiento de que la técnica transmitida entre los miembros de la familia es la Técnica de Maldición Ilimitada, sin embargo, sólo aquellos que también hayan heredado el poder de los Seis Ojos podrán hacer uso correcto de la misma. Luego de más de 400 años, con el nacimiento de Satoru Gojo, el 7 de diciembre de 1989, el clan pudo volver a ser poseedor de dichos ojos. De él ha heredado la Técnica de Maldición ilimitada y el poder de los seis ojos."; 
